@@ -26,7 +26,7 @@ questions, display the final score.
 2. Import the project into Eclipse as a Dynamic Web Project. 
 3. Add Apache Tomcat as the server in Eclipse. 
 4. Right-click project → Run As → Run on Server. 
-5. Open browser and go to: http://localhost:8080/YourProjectName/index.html 
+5. Open browser and go to:http://localhost:8080/QuizApplication/
  
 ## Screenshots 
  
